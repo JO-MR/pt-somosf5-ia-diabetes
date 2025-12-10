@@ -28,6 +28,12 @@ Diseñado para cumplir **todas las exigencias técnicas y pedagógicas** de la P
 9. Conclusión
 
 ---
+##  Accesos rápidos mediante QR
+Con el objetivo de faciliar la accesibilidad, en diferentes dispositivos, he creado tres QR, que permiten visualizar la interfaz de Streamlit en Hugging Face, el código en Google Colab y el repositorio de la Prueba Técnica, almacenado en Github.
+
+![QRs del proyecto](https://raw.githubusercontent.com/JO-MR/pt-somosf5-ia-diabetes/main/QRs.png)
+
+---
 
 #  Estructura del repositorio
 
