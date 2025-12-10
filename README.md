@@ -15,6 +15,20 @@ Diseñado para cumplir **todas las exigencias técnicas y pedagógicas** de la P
 
 ---
 
+## Índice
+
+1. Descripción general del proyecto  
+2. Qué hace el código, paso a paso  
+3. Qué aprendería el alumnado al ejecutar este ejemplo  
+4. Cómo usar este recurso en una clase  
+5. Qué podría salir mal y cómo solucionarlo  
+6. Ideas para adaptar la actividad a distintos niveles  
+7. Comparación de hiperparámetros del Random Forest  
+8. Mini interfaz con Streamlit desplegada en Hugging Face
+9. Conclusión
+
+---
+
 #  Estructura del repositorio
 
 ```text
@@ -786,6 +800,19 @@ La mini interfaz es, por tanto, el puente perfecto entre:
 - la **parte técnica** (entrenar modelos),  
 - la **parte ética** (analizar sesgos y limitaciones),  
 - y la **parte pedagógica** (explicar y comunicar IA a otros).
+
+---
+
+## 9. Conclusión
+
+Este proyecto integra:
+
+- un pipeline completo de Machine Learning,
+- un análisis explícito de sesgos,
+- un mock de IA generativa para explicabilidad accesible,
+- y una mini interfaz web para uso en contextos formativos reales.
+
+Está diseñado para ser utilizado en grupos diversos, con distintos niveles de experiencia, y alineado con los valores de inclusión, impacto social y aprendizaje transformador de Fundación Somos F5.
 
 
 
