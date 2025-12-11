@@ -234,6 +234,7 @@ Esto implica que su rendimiento **no es igual para todos los grupos**, lo cual p
 El modelo funciona razonablemente bien, pero **puede ser injusto para ciertos grupos de edad**.
 Por ello, es fundamental supervisarlo y complementarlo con juicio humano.
 
+---
 
 ###  Bloque 7 — Comparación de hiperparámetros del Random Forest (opcional)
 
