@@ -189,6 +189,51 @@ Este bloque integra:
 Fomentar pensamiento crítico sobre el impacto social de la IA y enseñar a comunicar resultados de manera inclusiva.
 
 ---
+##  Ejemplo del prompt utilizado en el mock de IA generativa
+
+El proyecto incluye una función que simula cómo un modelo de IA generativa explicaría los resultados de un modelo de Machine Learning, transformando métricas técnicas en un lenguaje claro y accesible.
+
+A continuación se muestra el **prompt real generado**, seguido de la **respuesta simulada** que la IA produciría:
+
+```python
+# === PROMPT ENVIADO AL LLM ===
+
+Explica los resultados de un modelo de Machine Learning en lenguaje sencillo.
+Objetivo del sistema: apoyar la detección temprana del riesgo de diabetes
+Métrica principal: Recall de la clase positiva (personas con diabetes)
+Valor de la métrica: 0.55
+Riesgo de sesgo detectado: el modelo detecta peor la diabetes en personas menores de 30 años que en personas mayores
+
+La explicación debe ser clara, inclusiva, comprensible para personas sin
+conocimientos técnicos y con enfoque ético.
+
+# === RESPUESTA SIMULADA POR EL MOCK ===
+
+*Explicación del sistema en lenguaje accesible*
+
+Este sistema se ha diseñado para apoyar la detección temprana del riesgo de diabetes
+utilizando información clínica como la edad, la glucosa en sangre, el IMC o la insulina.
+
+### ¿Qué tan bien funciona el modelo?
+La métrica principal es el Recall, cuyo valor es aproximadamente 0.55.
+Esto significa que, de cada 100 personas con diabetes, el modelo detecta correctamente a unas 55.
+
+### Posibles riesgos de sesgo
+Hemos identificado un riesgo importante:
+**el modelo detecta peor la diabetes en personas menores de 30 años**.
+
+Esto implica que su rendimiento **no es igual para todos los grupos**, lo cual puede generar desigualdad en aplicaciones reales de salud.
+
+### Recomendaciones para un uso responsable
+1. Usar siempre este sistema como apoyo, no como diagnóstico final.
+2. Revisar cómo rinde el modelo en distintos grupos poblacionales.
+3. Añadir más datos de los colectivos donde funciona peor.
+4. Proporcionar explicaciones claras y comprensibles a las personas usuarias.
+
+### En resumen
+El modelo funciona razonablemente bien, pero **puede ser injusto para ciertos grupos de edad**.
+Por ello, es fundamental supervisarlo y complementarlo con juicio humano.
+
 
 ###  Bloque 7 — Comparación de hiperparámetros del Random Forest (opcional)
 
