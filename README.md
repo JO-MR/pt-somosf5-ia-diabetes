@@ -191,8 +191,7 @@ Fomentar pensamiento crítico sobre el impacto social de la IA y enseñar a comu
 ## Ejemplo del prompt utilizado en el mock de IA generativa
 
 El proyecto incluye una función que simula cómo un modelo de IA generativa explicaría los resultados de un modelo de Machine Learning, transformando métricas técnicas en un lenguaje claro y accesible.
-
-A continuación se muestra el **prompt real generado**, seguido de la **respuesta simulada** que la IA produciría:
+El prompt generado, está encluido en el notebook de google colab dentro del bloque 6 - punto dos.
 
 ---
 ###  Bloque 7 — Comparación de hiperparámetros del Random Forest (opcional)
