@@ -1,5 +1,5 @@
 # Explorador de Sesgos: Mini Aplicación Didáctica de Machine Learning  
-### Prueba Técnica – Formador/a en IA | Fundación Somos F5
+### Prueba Técnica – Formador en IA | Fundación Somos F5
 ## Accesos rápidos, al script/notebook creado google colab y al despliegue de la aplicación de streamlit en Hugging Face
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U3XrIRgcRPddmpmYfP5FWmLsm565ZcVb)
