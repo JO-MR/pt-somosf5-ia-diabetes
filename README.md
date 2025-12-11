@@ -114,6 +114,26 @@ Aprender a “leer” un dataset y desarrollar habilidades críticas para evalua
 ---
 
 ###  Bloque 3 — Análisis Exploratorio de Datos (EDA)
+---
+
+### Visualizaciones incluidas en el notebook
+
+El notebook `PT_diabetes.ipynb` incorpora todas las visualizaciones necesarias para comprender los datos y el comportamiento de los modelos.  
+Estas visualizaciones se encuentran generadas en los Bloques 2, 3 y 5 del Colab e incluyen:
+
+- Histogramas de variables clave  
+- Boxplots para detección de valores atípicos  
+- Matriz de correlación  
+- Curva ROC de los modelos  
+- Matriz de confusión  
+- Gráficos comparativos de métricas  
+
+Estas figuras permiten al alumnado **interpretar los resultados de manera visual**, fomentando pensamiento crítico y análisis basado en evidencia.
+
+Puedes revisar las visualizaciones directamente aquí:  
+**Notebook en Google Colab:** https://colab.research.google.com/drive/1U3XrIRgcRPddmpmYfP5FWmLsm565ZcVb
+
+---
 
 Se generan visualizaciones orientadas a la comprensión:
 
