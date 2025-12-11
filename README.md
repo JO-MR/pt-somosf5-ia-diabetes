@@ -95,6 +95,15 @@ En este bloque se realiza:
 - Descripción de la fuente y licencia del dataset.
 - Primer análisis reflexivo sobre la calidad y limitaciones de los datos.
 
+  ## 📂 Dataset utilizado
+
+- **Dataset original:**  
+  [Pima Indians Diabetes Dataset (CSV)](https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv)
+
+- **Versión utilizada en el proyecto (preprocesada):**  
+  [`dataset_diabetes.csv`](./dataset_diabetes.csv)
+
+
 **Propósito pedagógico:**  
 Introducir al alumnado a trabajar con datos reales, validar su estructura y comprender el contexto antes de modelar.
 
