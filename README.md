@@ -126,7 +126,9 @@ Estas visualizaciones se encuentran generadas en los Bloques 2, 3 y 5 del Colab 
 - Matriz de correlación  
 - Curva ROC de los modelos  
 - Matriz de confusión  
-- Gráficos comparativos de métricas  
+- Gráficos comparativos de métricas
+- Correlaciones entre variables.
+- Análisis visual de patrones y posibles sesgos
 
 Estas figuras permiten al alumnado **interpretar los resultados de manera visual**, fomentando pensamiento crítico y análisis basado en evidencia.
 
@@ -134,13 +136,6 @@ Puedes revisar las visualizaciones directamente aquí:
 **Notebook en Google Colab:** https://colab.research.google.com/drive/1U3XrIRgcRPddmpmYfP5FWmLsm565ZcVb
 
 ---
-
-Se generan visualizaciones orientadas a la comprensión:
-
-- Histogramas de variables clave.
-- Boxplots para detectar outliers.
-- Correlaciones entre variables.
-- Análisis visual de patrones y posibles sesgos.
 
 **Propósito pedagógico:**  
 El alumnado aprende a interpretar gráficos, identificar patrones y formular hipótesis basadas en evidencia visual.
