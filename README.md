@@ -77,10 +77,15 @@ A continuación se presenta una descripción clara y estructurada de cada parte 
 
 ###  Bloque 1 — Carga del dataset (CSV público) y descripción inicial
 ### Fuente del dataset
+
 Origen: repositorio público de Plotly (datasets educativos).
+
 Pima Indians Diabetes Dataset desde URL pública.
+
 Formato: CSV.
+
 URL directa: https://raw.githubusercontent.com/plotly/datasets/master/diabetes.csv
+
 Licencia: uso abierto para fines educativos.
 
 En este bloque se realiza:
