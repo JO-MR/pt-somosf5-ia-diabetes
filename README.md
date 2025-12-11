@@ -1,5 +1,9 @@
 # Explorador de Sesgos: Mini Aplicación Didáctica de Machine Learning  
 ### Prueba Técnica – Formador/a en IA | Fundación Somos F5
+## Accesos rápidos
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U3XrIRgcRPddmpmYfP5FWmLsm565ZcVb)
+[![HuggingFace Space](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace%20Space-blue)](https://huggingface.co/spaces/JonasDMR/diabetes-streamlit-jonas)
 
 Este repositorio contiene una **actividad educativa completa** para enseñar Machine Learning, análisis ético, visualización de datos e introducción a IA generativa.  
 
