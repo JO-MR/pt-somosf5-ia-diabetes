@@ -132,7 +132,7 @@ Estas visualizaciones se encuentran generadas en los Bloques 2, 3 y 5 del Colab 
 Estas figuras permiten al alumnado **interpretar los resultados de manera visual**, fomentando pensamiento crítico y análisis basado en evidencia.
 
 Puedes revisar las visualizaciones directamente aquí:  
-**Notebook en Google Colab:** https://colab.research.google.com/drive/1U3XrIRgcRPddmpmYfP5FWmLsm565ZcVb
+**Notebook en Google Colab:** https://colab.research.google.com/drive/1U3XrIRgcRPddmpmYfP5FWmLsm565ZcVb?usp=sharing
 
 ---
 
