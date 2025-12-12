@@ -2,7 +2,7 @@
 ### Prueba Técnica – Formador en IA | Fundación Somos F5
 ## Accesos rápidos, al script/notebook creado google colab y al despliegue de la aplicación de streamlit en Hugging Face
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1U3XrIRgcRPddmpmYfP5FWmLsm565ZcVb](https://colab.research.google.com/drive/1U3XrIRgcRPddmpmYfP5FWmLsm565ZcVb?usp=sharing))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U3XrIRgcRPddmpmYfP5FWmLsm565ZcVb?usp=sharing)
 [![HuggingFace Space](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace%20Space-blue)](https://huggingface.co/spaces/JonasDMR/diabetes-streamlit-jonas)
 
 
